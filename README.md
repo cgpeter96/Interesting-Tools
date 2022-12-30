@@ -68,6 +68,7 @@ name | function | information
 C++ primer课后题答案|rt|https://github.com/applenob/Cpp_Primer_Practice
 算法理论基础知识应知应会|可以自己经常拿来学习下|https://github.com/sladesha/Reflection_Summary
 PyTorchTricks|pytorch技巧集合|https://github.com/lartpang/PyTorchTricks
+Paper-Writing-Tips|AI论文协作技巧|https://github.com/MLNLP-World/Paper-Writing-Tips
 
 
 ## Others 
