@@ -52,7 +52,7 @@ sklearn onnx|把sklearn转换为onnx格式 |https://github.com/onnx/sklearn-onnx
 gorse|go编写的开源推荐引擎|https://github.com/zhenghaoz/gorse
 TextPruner|bert剪枝工具|https://github.com/airaria/TextPruner
 radish|C++部署torch模型（libtorch）,可参考数据预处理,e.g., BertTokenizer|https://github.com/LieluoboAi/radish|
-
+KuiperInfer|从零自制深度学习推理框架|https://github.com/zjhellofss/KuiperInfer
 
 ## System
 name | function | information
