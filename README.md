@@ -42,6 +42,7 @@ Fasttext java blinding| rt |https://github.com/vinhkhuc/JFastText
 Jaba|java版jieba|https://github.com/Sweetiee-yi/Jaba
 
 ## ML/DL framework/Sysntem
+
 name | function | information
 ---|---|---
 cppflow|Run TensorFlow models in C++ without installation and without Bazel（使用cpp加载tf模型）|https://github.com/serizba/cppflow
@@ -84,3 +85,10 @@ youdaonote-pull|把有道笔记的内容转换为markdown形式并且保存结�
 qlib|微软开源的量化工具|https://qlib.readthedocs.io/en/latest/
 new-bull|猿辅导的新人培训计划java向|https://github.com/yuantiku/new-bull
 /Wechatsync|全平台文章同步|https://github.com/wechatsync/Wechatsync
+谷歌代码风格|rt|https://github.com/zh-google-styleguide/zh-google-styleguide
+
+## C++
+name | function | information
+abseil|公共库，包含容器、字符串、时间随机数等等|https://github.com/abseil/abseil-cpp
+folly|facebook开源的工具库，内容比较多|https://github.com/facebook/folly
+workflow|搜狗开源的网络服务，支持http/rpc|https://github.com/sogou/workflow
