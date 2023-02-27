@@ -9,6 +9,7 @@ An interesting tool of meet by chance
 name | function | information
 ---|---|---
 click|以装饰器的方式声明命令行参数并传入到函数|https://www.cnblogs.com/xiao-apple36/p/9089027.html， https://click-docs-zh-cn.readthedocs.io/zh/latest/
+fire|直接把函数参数作为cli的参数，也支持传入类作为cli|https://github.com/google/python-fire
 多领域中文分词工具包 | 分词| https://github.com/lancopku/pkuseg-python
 pkuseg-python|词性标注文件 |https://github.com/lancopku/pkuseg-python/blob/master/tags.txt
 tensorflow1.14|在cuda11 version|https://blog.csdn.net/wu496963386/article/details/109583045
