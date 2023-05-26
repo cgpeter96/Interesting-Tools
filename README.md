@@ -14,6 +14,7 @@ fire|直接把函数参数作为cli的参数，也支持传入类作为cli|https
 pkuseg-python|词性标注文件 |https://github.com/lancopku/pkuseg-python/blob/master/tags.txt
 tensorflow1.14|在cuda11 version|https://blog.csdn.net/wu496963386/article/details/109583045
  ngc.nvidia.com| nv的docker镜像| https://ngc.nvidia.com/catalog
+tenacity|重试库，出现异常会进行重试|https://github.com/jd/tenacity
 
 
 ## ML 
