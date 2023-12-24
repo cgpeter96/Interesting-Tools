@@ -88,6 +88,7 @@ qlib|微软开源的量化工具|https://qlib.readthedocs.io/en/latest/
 new-bull|猿辅导的新人培训计划java向|https://github.com/yuantiku/new-bull
 /Wechatsync|全平台文章同步|https://github.com/wechatsync/Wechatsync
 谷歌代码风格|rt|https://github.com/zh-google-styleguide/zh-google-styleguide
+WeChatMsg|微信消息导出|https://github.com/LC044/WeChatMsg
 
 ## C++
 name | function | information
